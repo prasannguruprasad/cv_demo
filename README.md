@@ -1,4 +1,4 @@
-<a href="[https://colab.research.google.com/github/prasannguruprasad/cv_demo/blob/main/noteboook.ipynb](https://colab.research.google.com/github/prasannguruprasad/cv_demo/blob/main/noteboook.ipynb)">
+<a href = "[https://colab.research.google.com/github/prasannguruprasad/cv_demo/blob/main/noteboook.ipynb]">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 # cv_demo
