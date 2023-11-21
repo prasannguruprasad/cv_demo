@@ -24,7 +24,6 @@ def predict_image(model, class_path, image_path):
   max_value = max(prediction_probability.values())
   keys_with_max_value = [k for k, v in prediction_probability.items() if v == max_value]
   print("\n\nPrediction: \n")
-  display(img1)
   print(os.path.basename(image_path) + " " + keys_with_max_value[0] + " (" + str(max_value) + ")")
 
 def predict_images_in_directory(model, class_path, directory_path): 
